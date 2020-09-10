@@ -1,0 +1,819 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container
+{
+position: relative;
+width: 1920px;
+height: 3600px;
+
+background: grey;
+}
+
+.content
+{
+position: relative;
+width: 1920px;
+height: 900px;
+
+background: #FFFFFF;
+}
+
+header
+{
+position: fixed;
+width: 1920px;
+height: 50px;
+left: 0px;
+top: 0px;
+background:#FFFFFF;
+padding-left: 38px;
+
+
+
+display: flex;
+}
+
+.social
+{
+	position: absolute;
+left: 3.75%;
+right: 94.9%;
+top: 80.78%;
+bottom: 9.33%;
+
+}
+.logo
+{
+top:7px;
+width: 47.74px;
+height: 37px;
+float: center;
+position: absolute;
+}
+
+
+.items
+{
+left: 95%;
+right: 1.98%;
+position: absolute;
+float: right;
+width: 27px;
+height: 22px; 
+padding-top:14px; 
+ padding-bottom:14px;
+}
+
+.logo-white
+{
+position: absolute;
+width: 66.12px;
+height: 51.27px;
+left: 450px;
+top: 131px;
+
+}
+
+.Hello
+{
+position: absolute;
+width: 555px;
+height: 29px;
+left: 474px;
+top: 213px;
+
+font-family: Roboto;
+font-style: thin;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+
+color: #FFFFFF;
+}
+
+.NG_VU
+{
+position: absolute;
+width: 555px;
+height: 132px;
+left: 466px;
+top: 242px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 145.952px;
+line-height: 171px;
+
+color: #FFFFFF;
+}
+
+.Welcome
+{
+position: absolute;
+width: 252px;
+height: 65px;
+left: 769px;
+top: 420px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: right;
+
+color: #FFFFFF;
+}
+
+.Me
+{
+position: absolute;
+width: 599px;
+height: 900px;
+left: 1081px;
+top: 0px;
+
+}
+
+.Elispe
+{
+position: absolute;
+width: 514px;
+height: 514px;
+left: 1307px;
+top: 213px;
+
+}
+
+.img
+{
+position: absolute;
+width: 333px;
+height: 775px;
+left: 63px;
+top: 66px;
+}
+
+.About
+{
+position: absolute;
+width: 378px;
+height: 56px;
+left: 484px;
+top: 123px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+}
+
+.name
+{
+position: absolute;
+width: 588px;
+height: 45px;
+left: 484px;
+top: 184px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+.dob
+{
+position: absolute;
+width: 588px;
+height: 25px;
+left: 486px;
+top: 239px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+
+.place
+{
+position: absolute;
+width: 588px;
+height: 19px;
+left: 486px;
+top: 280px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+}
+
+.Experience
+{
+position: absolute;
+width: 466px;
+height: 56px;
+left: 486px;
+top: 337px;
+
+}
+
+.EXP
+{
+	position: absolute;
+width: 126px;
+height: 56px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 75px;
+
+color: #000000
+}
+
+.in 
+{
+	
+position: absolute;
+width: 90px;
+height: 20px;
+left: 126px;
+top: 8px;
+bottom: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+}
+
+.ui
+{
+position: absolute;
+width: 105px;
+height: 38px;
+left: 126px;
+top: 21px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+}
+
+.p_apps
+{
+position: absolute;
+width: 131px;
+height: 20px;
+left: 335px;
+top: 8px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+}
+
+
+
+
+.pts
+{
+position: absolute;
+width: 30px;
+height: 30px;
+left: 821px;
+top: 360px;
+}
+
+.ai 
+{
+position: absolute;
+width: 30px;
+height: 30px;
+left: 868px;
+top: 360px;
+}
+
+.figma
+{
+
+position: absolute;
+width: 20px;
+height: 29.99px;
+left: 915px;
+top: 360px;
+}
+
+.words
+{
+position: absolute;
+width: 689px;
+height: 308px;
+left: 484px;
+top: 466px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 18px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.open
+{
+position: absolute;
+left: 72.4%;
+right: 23.65%;
+top: 21.78%;
+bottom: 72%;
+}
+
+.quotes
+{
+position: absolute;
+width: 344px;
+height: 343.08px;
+left: 1490px;
+top: 196px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 44.3871px;
+line-height: 52px;
+
+color: #000000;
+}
+
+.author
+{
+position: absolute;
+width: 136px;
+height: 21px;
+left: 1490px;
+top: 538px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+
+}
+
+.close
+{
+position: absolute;
+left: 90.31%;
+right: 5.73%;
+top: 57.89%;
+bottom: 35.89%;
+
+}
+
+.pic
+{
+position: absolute;
+width: 496px;
+height: 153px;
+left: 1314px;
+top: 688px;
+}
+
+
+
+.mycontact
+{
+position: absolute;
+width: 707px;
+height: 56px;
+left: 181px;
+top: 168px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+color: #000000;
+}
+
+.info
+{
+position: absolute;
+width: 844px;
+height: 302px;
+left: 116px;
+top: 287px;
+
+}
+
+ul
+{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+
+ul li
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.phone
+{
+position: absolute;
+width: 842.72px;
+height: 30.6px;
+bottom:274px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000
+}
+
+.number
+{
+	position: absolute;
+width: 707.17px;
+height: 38.58px;
+left: 65px;
+top: 47px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+
+.mail
+{
+position: absolute;
+width: 842.72px;
+height: 35.92px;
+top: 105px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.g-mail
+{
+	position: absolute;
+width: 707.17px;
+height: 38.58px;
+left: 65px;
+top: 158px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.office
+{
+position: absolute;
+width: 842.72px;
+height: 35.92px;
+top: 215px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.address
+{
+	position: absolute;
+width: 707.17px;
+height: 38.58px;
+left: 65px;
+top: 263px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+
+.Formbox
+{
+position: absolute;
+width: 659px;
+height: 659px;
+left: 1139px;
+top: 132px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+.form-name
+{
+	
+position: absolute;
+width: 659px;
+height: 56px;
+bottom: 567px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.user_name
+{
+	position: absolute;
+width: 133px;
+height: 23px;
+left: 54px;
+top: 115px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000
+}
+
+.user_phone
+{
+	position: absolute;
+width: 133px;
+height: 23px;
+left: 54px;
+top: 194px;
+bottom:438px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000
+}
+
+.user_mail
+{
+position: absolute;
+width: 133px;
+height: 23px;
+left: 54px;
+top: 275px;
+bottom:438px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000
+}
+
+.user_mess
+{
+position: absolute;
+width: 133px;
+height: 23px;
+left: 54px;
+top: 354px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000
+}
+
+.button
+{
+position: absolute;
+width: 267px;
+height: 106px;
+left: 203px;
+top: 457px;
+
+background: #000000;
+border-radius: 53px;
+opacity: 0.8;
+transition: 0.2s;
+}
+.button:hover {opacity:1}
+
+
+.send
+{
+position: absolute;
+width: 674px;
+height: 56px;
+
+top: 485px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.product-R
+{
+position: absolute;
+width: 542px;
+height: 726px;
+left: 256px;
+top: 86px;
+}
+
+.product_logo
+{
+position: absolute;
+left: 48.75%;
+right: 34.38%;
+top: 11.89%;
+bottom: 70.13%;
+
+}
+
+.box 
+{
+position: absolute;
+width: 150px;
+height: 110px;
+left: 1588px;
+top: 107px;
+
+border: 11px solid #000000;
+box-sizing: border-box;
+}
+
+.numbering
+{
+position: absolute;
+width: 89px;
+height: 74px;
+left: 20px;
+top: 10px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 74px;
+line-height: 75px;
+
+color: #000000	
+}
+
+.product_text
+{
+position: absolute;
+width: 832px;
+height: 505px;
+left: 931px;
+top: 327px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 38px;
+
+color: #000000;
+}
+
+
+
+.product_G
+{
+position: absolute;
+width: 772px;
+height: 741px;
+left: 63px;
+top: 98px;
+}
+
+.page1
+{
+position: absolute;
+width: 236px;
+height: 510px;
+bottom:156px;
+top: 75px;
+}
+
+.page2
+{
+position: absolute;
+width: 342px;
+height: 741px;
+left: 213px;
+
+}
+
+.page3
+{
+position: absolute;
+width: 236px;
+height: 510px;
+left:536px;
+top:75px;
+}
